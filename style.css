@@ -145,15 +145,8 @@ footer {
     color: blue;
 }
 
-.map-container {
-    margin-top: 20px;
-    overflow: hidden;
-    position: relative;
-    width: 100%;
-  }
-  
-  iframe {
+iframe {
     border: none;
     height: 100%;
     width: 100%;
-  }
+}
